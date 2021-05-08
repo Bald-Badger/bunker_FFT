@@ -1,0 +1,26 @@
+{C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/fft_ip_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/fft_ip_tb.sv}
+QuestaSim-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling package fft_ip_tb_sv_unit
+-- Importing package defines
+-- Compiling module fft_ip_tb
+
+Top level modules:
+	fft_ip_tb
+
+} {} {}} {C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/defines.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/defines.sv}
+QuestaSim-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling package defines
+
+Top level modules:
+	--none--
+
+} {} {}} {C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/clkrst.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/clkrst.sv}
+QuestaSim-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling package clkrst_sv_unit
+-- Importing package defines
+-- Compiling module clkrst
+
+Top level modules:
+	clkrst
+
+} {} {}}

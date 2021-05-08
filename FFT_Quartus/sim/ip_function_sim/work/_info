@@ -1,0 +1,142 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.01, Jan 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2020.1/examples
+vclkrst
+Z0 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z1 DXx4 work 7 defines 0 22 QHM?[1cg9efEVKi^FTA6K0
+DXx4 work 14 clkrst_sv_unit 0 22 0Nk6I`OY:P8Of0>2O866l1
+Z2 !s110 1619318583
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 n@O^4Ll5G[dF`aZ=`lef]1
+IXoMC>mENf<9f?DX^j9h2F1
+!s105 clkrst_sv_unit
+S1
+Z4 dC:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/sim/ip_function_sim
+Z5 w1619310358
+Z6 8C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/clkrst.sv
+Z7 FC:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/clkrst.sv
+!i122 2
+L0 3 25
+Z8 OL;L;2020.1;71
+31
+Z9 !s108 1619318583.000000
+Z10 !s107 C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/clkrst.sv|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/clkrst.sv|
+!i113 0
+Z12 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 tCvgOpt 0
+Xclkrst_sv_unit
+R0
+R1
+R2
+V0Nk6I`OY:P8Of0>2O866l1
+r1
+!s85 0
+!i10b 1
+!s100 ]^h1ebN;mC:@[GVXFjCGh0
+I0Nk6I`OY:P8Of0>2O866l1
+!i103 1
+S1
+R4
+R5
+R6
+R7
+!i122 2
+Z14 L0 1 0
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Xdefines
+R0
+R2
+!i10b 1
+!s100 QmioM@cbW:f<h_dHJJcO?1
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IQHM?[1cg9efEVKi^FTA6K0
+VQHM?[1cg9efEVKi^FTA6K0
+S1
+R4
+w1619317592
+8C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/defines.sv
+FC:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/defines.sv
+!i122 3
+L0 3 0
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/defines.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/defines.sv|
+!i113 0
+R12
+R13
+vfft_ip_tb
+R0
+R1
+DXx4 work 17 fft_ip_tb_sv_unit 0 22 1gd4<`4aXK0fJOoOn<RVV2
+Z15 !s110 1619318584
+R3
+r1
+!s85 0
+!i10b 1
+!s100 ocnGdfPRD5ekT@R@@?_RA2
+IY<^JA:jgTVbl[F`ZiPZ4;0
+!s105 fft_ip_tb_sv_unit
+S1
+R4
+Z16 w1619317959
+Z17 8C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/fft_ip_tb.sv
+Z18 FC:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/fft_ip_tb.sv
+!i122 4
+L0 3 117
+R8
+31
+Z19 !s108 1619318584.000000
+!s107 C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/fft_ip_tb.sv|
+Z20 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/fft_ip_tb.sv|
+!i113 0
+R12
+R13
+Xfft_ip_tb_sv_unit
+R0
+R1
+R15
+V1gd4<`4aXK0fJOoOn<RVV2
+r1
+!s85 0
+!i10b 1
+!s100 I>[`F6Gd5A44RLz2k8Lkc3
+I1gd4<`4aXK0fJOoOn<RVV2
+!i103 1
+S1
+R4
+R16
+R17
+R18
+!i122 4
+R14
+R8
+31
+R19
+Z21 !s107 C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/fft_ip_tb.sv|
+R20
+!i113 0
+R12
+R13

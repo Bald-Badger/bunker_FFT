@@ -1,0 +1,184 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.01, Jan 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/sim/ip_function_sim
+T_opt
+!s110 1620447496
+VF;`<BJ>bAN58kQ>2W9DKS0
+Z1 04 9 4 work fft_ip_tb fast 0
+=1-04d9f57cecd6-60961106-30d-58d8
+o-quiet -auto_acc_if_foreign -work work -L fft_ii_0
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.1;71
+R0
+T_opt2
+!s110 1620448351
+VDfdmU:jEoWa?oM6cb1GAC0
+R1
+=1-04d9f57cecd6-6096145e-173-32fc
+o-quiet -auto_acc_if_foreign -work work -L fft_ii_0 +acc
+R2
+n@_opt2
+R3
+vclkrst
+Z4 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z5 DXx4 work 7 defines 0 22 H>_6kECJJ=NHeRYP9<FAV3
+DXx4 work 14 clkrst_sv_unit 0 22 B5hbXOBY]L]=@QG@_3;N?2
+Z6 !s110 1620448337
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 G]E;<LdIU[aU]@P7cP0h22
+ITKnM:42kHz[42?d^z<P7?0
+!s105 clkrst_sv_unit
+S1
+R0
+Z8 w1619875008
+Z9 8C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/clkrst.sv
+Z10 FC:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/clkrst.sv
+!i122 169
+L0 3 23
+Z11 OL;L;2020.1;71
+31
+Z12 !s108 1620448337.000000
+Z13 !s107 C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/clkrst.sv|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/clkrst.sv|
+!i113 0
+Z15 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+Xclkrst_sv_unit
+R4
+R5
+R6
+VB5hbXOBY]L]=@QG@_3;N?2
+r1
+!s85 0
+!i10b 1
+!s100 b2Y7G6NH<`?OJYS9H0Sc83
+IB5hbXOBY]L]=@QG@_3;N?2
+!i103 1
+S1
+R0
+R8
+R9
+R10
+!i122 169
+Z16 L0 1 0
+R11
+31
+R12
+R13
+R14
+!i113 0
+R15
+R2
+Xdefines
+R4
+Z17 !s110 1620448338
+!i10b 1
+!s100 V69c5eD1Jo?mgU;>OfMMN2
+Z18 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IH>_6kECJJ=NHeRYP9<FAV3
+VH>_6kECJJ=NHeRYP9<FAV3
+S1
+R0
+w1619862537
+8C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/defines.sv
+FC:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/defines.sv
+!i122 170
+L0 3 0
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/defines.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/defines.sv|
+!i113 0
+R15
+R2
+vfft_ip
+!s110 1619863523
+!i10b 1
+!s100 7_=j;lBoOoOZl=gE<0[:J1
+R18
+IWC:hX4a;BJ04I2[>B5`zZ3
+R7
+R0
+w1619863397
+8./../../rtl/ip/fft_ip/simulation/fft_ip.v
+F./../../rtl/ip/fft_ip/simulation/fft_ip.v
+!i122 70
+L0 6 43
+R11
+r1
+!s85 0
+31
+!s108 1619863523.000000
+!s107 ./../../rtl/ip/fft_ip/simulation/fft_ip.v|
+!s90 -reportprogress|300|./../../rtl/ip/fft_ip/simulation/fft_ip.v|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfft_ip_tb
+R4
+R5
+DXx4 work 17 fft_ip_tb_sv_unit 0 22 ZCK4DJ96EZmV10m7@5MOP0
+R17
+R7
+r1
+!s85 0
+!i10b 1
+!s100 R`a_=DJA[eIn7[=WOAIdK2
+IhcQc<@@H@e`Le0VhI5coL3
+!s105 fft_ip_tb_sv_unit
+S1
+R0
+Z19 w1620448326
+Z20 8C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/fft_ip_tb.sv
+Z21 FC:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/fft_ip_tb.sv
+!i122 171
+L0 3 181
+R11
+31
+Z22 !s108 1620448338.000000
+Z23 !s107 C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/fft_ip_tb.sv|
+Z24 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Shuai/OneDrive - UW-Madison/Course_Material/21-spring/ECE757/project/FFT_Quartus/rtl/tb/fft_ip_tb/fft_ip_tb.sv|
+!i113 0
+R15
+R2
+Xfft_ip_tb_sv_unit
+R4
+R5
+R17
+VZCK4DJ96EZmV10m7@5MOP0
+r1
+!s85 0
+!i10b 1
+!s100 S8E<Ee?o=48cUdzoLmD`f0
+IZCK4DJ96EZmV10m7@5MOP0
+!i103 1
+S1
+R0
+R19
+R20
+R21
+!i122 171
+R16
+R11
+31
+R22
+R23
+R24
+!i113 0
+R15
+R2
